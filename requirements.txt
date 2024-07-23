@@ -1,4 +1,4 @@
-customtkinter==5.1.2
-pyfiglet==0.8.post1
-morse-code==1.0.2
-base32-crockford==1.0.1
+customtkinter
+pyfiglet
+morse-code
+base32-crockford
